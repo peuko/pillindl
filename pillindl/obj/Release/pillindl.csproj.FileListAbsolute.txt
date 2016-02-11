@@ -1,0 +1,12 @@
+C:\Users\wenupix\documents\visual studio 2015\Projects\pillindl\pillindl\bin\Release\pillindl.exe.config
+C:\Users\wenupix\documents\visual studio 2015\Projects\pillindl\pillindl\bin\Release\pillindl.exe
+C:\Users\wenupix\documents\visual studio 2015\Projects\pillindl\pillindl\bin\Release\pillindl.pdb
+C:\Users\wenupix\documents\visual studio 2015\Projects\pillindl\pillindl\bin\Release\Newtonsoft.Json.dll
+C:\Users\wenupix\documents\visual studio 2015\Projects\pillindl\pillindl\bin\Release\Newtonsoft.Json.xml
+C:\Users\wenupix\documents\visual studio 2015\Projects\pillindl\pillindl\obj\Release\pillindl.csprojResolveAssemblyReference.cache
+C:\Users\wenupix\documents\visual studio 2015\Projects\pillindl\pillindl\obj\Release\pillindl.frmAbout.resources
+C:\Users\wenupix\documents\visual studio 2015\Projects\pillindl\pillindl\obj\Release\pillindl.frmMain.resources
+C:\Users\wenupix\documents\visual studio 2015\Projects\pillindl\pillindl\obj\Release\pillindl.Properties.Resources.resources
+C:\Users\wenupix\documents\visual studio 2015\Projects\pillindl\pillindl\obj\Release\pillindl.csproj.GenerateResource.Cache
+C:\Users\wenupix\documents\visual studio 2015\Projects\pillindl\pillindl\obj\Release\pillindl.exe
+C:\Users\wenupix\documents\visual studio 2015\Projects\pillindl\pillindl\obj\Release\pillindl.pdb
